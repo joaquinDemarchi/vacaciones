@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #faeded;
+    /* background-color: #faeded; */
+    background-color: rgb(151, 238, 172);
     margin: 0;
     padding: 0;
 }
@@ -12,6 +13,7 @@ body {
 .container {
     max-width: 70%;
     margin: 50px auto;
+    /* background-color: rgb(151, 238, 172); */
     background-color: #fff;
     border-radius: 8px;
     padding: 20px;
@@ -20,7 +22,8 @@ body {
 
 h1 {
     text-align: center;
-    color: #b82626;
+    color: green;
+    /* color: #b82626; */
 }
 
 form {
