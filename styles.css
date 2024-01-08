@@ -22,7 +22,7 @@ body {
 
 h1 {
     text-align: center;
-    color: green;
+    color: rgb(17, 3, 143);
     /* color: #b82626; */
 }
 
@@ -41,7 +41,7 @@ form {
 label {
     margin: 10px 0;
     font-weight: 700;
-    color: #555;
+    color: #17047e;
 }
 
 input {
@@ -50,7 +50,7 @@ input {
     width: 30%;
     border: 1px solid #ddd;
     text-align: center;
-    color: #b82626;
+    color: #0e19b3;
     font-weight: 700;
     font-size: 20px;
     border-radius: 4px;
@@ -70,7 +70,7 @@ input:focus {
 
 button {
     padding: 10px;
-    background-color: #b82626;
+    background-color: #110897;
     font-weight: 700;
     color: #fff;
     border: none;
