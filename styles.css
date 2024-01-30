@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     /* background-color: #faeded; */
-    background-color: rgb(151, 238, 172);
+    background-color: rgba(122, 159, 240, 0.514);
     margin: 0;
     padding: 0;
 }
@@ -13,7 +13,7 @@ body {
 .container {
     max-width: 70%;
     margin: 50px auto;
-    background-color: #fff;
+    background-color: whitesmoke;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -21,7 +21,7 @@ body {
 
 h1 {
     text-align: center;
-    color: green;
+    color: blue;
     /* color: #b82626; */
 }
 
