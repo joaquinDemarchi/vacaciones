@@ -123,3 +123,5 @@ console.log(precioX1Dia,precioX2Dias,precioX3Dias);
 // Mostrar el elemento de resultado
 resultadoElement.style.display = "block";
 }
+
+console.log('version unica para todos');
